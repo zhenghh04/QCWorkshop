@@ -1,4 +1,4 @@
-# Quantum Computing with Project Q. 
+# Quantum Computing with ProjectQ. 
 
 ## Installing Anaconda
 
